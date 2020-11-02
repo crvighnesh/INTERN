@@ -1,0 +1,128 @@
+.aa{
+  background: url("./game.jpg")  no-repeat center;
+  background-size: cover;
+  height: 500px;
+}
+.cc{
+  margin-top: -39px;
+}
+.bb{
+  font-family: 'Grandstander', cursive;
+  font-size: 20px;
+}
+.ee{
+  margin-top: -45px;
+  font-family: 'Grandstander', cursive;
+  font-size: 20px;
+}
+.b{
+    margin-left: 300px;
+    width: 1000px;
+    height: 200px;
+}
+.c{
+    height: 200px;
+}
+
+.footer2{
+  background:linear-gradient(#0F2027,#203A43,#2C5364);
+  height: 320px;
+}
+.last1h{
+  color:#f74f43;
+  text-align: center;   
+}
+.last1c{
+  padding: 3%;
+  text-align: center; 
+}
+.last2h{
+  color:#f74f43;
+  text-align: left; 
+}
+.last2c{
+  padding: 3%;
+  text-align: left; 
+}
+.last3h{
+  color:#f74f43;
+  text-align: center; 
+}
+.last3c{
+  padding: 3%;
+  text-align: left; 
+}
+.foot3{
+ 
+  margin-top: -40px;
+
+}
+ .ff{
+   margin-right: 90px;
+ }
+ .g{
+   margin-right: 25px;
+ }
+ .h{
+   margin-top: 97px;
+   margin-right: -0px;
+   padding-left: 150px;
+   color: red;
+   font-family: 'Grandstander', cursive;
+ }
+ .i{
+   margin-left: 220px;
+ margin-top: -165px;
+ color: red;
+ font-family: 'Grandstander', cursive;
+ }
+ .j{
+  margin-left: 270px;
+ 
+margin-top: -165px;
+color: red;
+font-family: 'Grandstander', cursive;
+}
+.k  {
+  margin-left: 350px;
+  
+margin-top: -165px;
+color: red;
+font-family: 'Grandstander', cursive;
+}
+.l{
+  margin-left: 950px;
+  
+  margin-top: -165px;
+  color: red;
+  font-family: 'Grandstander', cursive;
+}
+.m{
+  margin-left: 1030px;
+  
+  margin-top: -165px;
+  color: red;
+  font-family: 'Grandstander', cursive;
+}
+.n{
+  
+  margin-left: 1100px;
+  margin-top: -165px;
+  color: red;
+  font-family: 'Grandstander', cursive;
+}
+.o{
+  
+  margin-left: 1190px;
+  margin-top: -165px;
+  color: red;
+  font-family: 'Grandstander', cursive;
+}
+.p{
+  margin-left: 1250px;
+  
+  margin-top: -165px;
+  color: red;
+  font-family: 'Grandstander', cursive;
+}
+
